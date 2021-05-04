@@ -30,4 +30,3 @@ my-env-config.yml
 .vertx
 **/generated
 vertx-start-process.id
-*.xml
